@@ -12,3 +12,11 @@ from pfSense shell :
 ```
 curl https://raw.githubusercontent.com/H4ckd4ddy/pfSense-Watchguard-widget/master/install.sh | sh
 ```
+
+## To uninstall
+
+from pfSense shell :
+
+```
+curl https://raw.githubusercontent.com/H4ckd4ddy/pfSense-Watchguard-widget/master/uninstall.sh | sh
+```
